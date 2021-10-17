@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+#about-pn{
+    
+color: white;
+padding-top: 50px;
+}
+.btn{
+    
+    width: 190px;
+    margin-left: 60px;
+    background-color: turquoise;
+    font-size: 15px;
+}
+#item{
+    margin-left: 80px;
+}
+.active-class{
+    color:red;
+}
+#navbar-brand{
+    padding-right: 200px;
+}
+
+
+.skill-item{
+    border-radius: 30px;
+}
+
+.skill-item a:hover{
+    color:white;
+
+}
+.project a:hover{
+    color: chocolate;
+
+}
